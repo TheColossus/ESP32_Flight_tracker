@@ -1,0 +1,1 @@
+This repository contains an ESP32 adapted version of my ESP8266 Flight tracker code. It only displays flights on the serial monitor. This was my original version, before I decided to display overhead flights on my matrix clock. Please see the other repo (ESP8266_Flight_tracker) for a full list of features plus a video demo.
